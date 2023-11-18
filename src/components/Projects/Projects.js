@@ -34,7 +34,7 @@ function Projects() {
               isBlog={false}
               title="Bits-0f-C0de"
               description=" This website hehe 😁"
-              ghLink="https://github.com/ChoukriMS/ChoukriTech"
+              ghLink="https://github.com/ChoukriMS/ChoukriSoukehal"
             />
           </Col>
 
