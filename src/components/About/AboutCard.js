@@ -13,10 +13,12 @@ function AboutCard() {
             <br />
             I am currently employed as a software engineer at CTRL.
             <br />
-            I have completed Bacherlor degree (IMSc) in software engineering in Big data at University of Laval.
+            I have completed Bacherlor degree in software engineering with a
+            concentration in Big data at University of Laval.
             <br />
             <br />
-            Apart from Analyzing data and coding, some other activities that I love to do!
+            Apart from Analyzing data and coding, some other activities that I
+            love to do!
           </p>
           <ul>
             <li className="about-activity">
